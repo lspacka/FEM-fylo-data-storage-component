@@ -9,9 +9,9 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/fylo-data-storage-component---html-css-1A6Rl8Z1fc)
 - [Live Site](https://lspacka.github.io/FEM-fylo-data-storage-component/)
 
 ### Built with
